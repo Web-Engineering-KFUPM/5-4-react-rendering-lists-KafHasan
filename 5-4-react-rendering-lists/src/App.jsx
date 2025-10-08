@@ -181,7 +181,7 @@ export default function App() {
         </h1>
         <p className="subtitle">Lists • Keys • Conditional Rendering</p>
       </header>
-
+<p>Hello</p>
       <section className="grid">
         {/* ✅ TASK 1 already implemented — for reference.
             Observe how .map() dynamically renders one <CourseCard /> per course. */}
